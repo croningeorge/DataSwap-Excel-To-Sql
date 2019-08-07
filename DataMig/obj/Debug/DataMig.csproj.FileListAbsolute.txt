@@ -1,0 +1,47 @@
+E:\Eram Infotech\STAMP\DataMig\DataMig\bin\Debug\DataMig.exe.config
+E:\Eram Infotech\STAMP\DataMig\DataMig\obj\Debug\DataMig.csprojResolveAssemblyReference.cache
+E:\Eram Infotech\STAMP\DataMig\DataMig\bin\Debug\DataMig.exe
+E:\Eram Infotech\STAMP\DataMig\DataMig\bin\Debug\DataMig.pdb
+E:\Eram Infotech\STAMP\DataMig\DataMig\obj\Debug\DataMig.exe
+E:\Eram Infotech\STAMP\DataMig\DataMig\obj\Debug\DataMig.pdb
+G:\DATA MIG\DataMig\DataMig\bin\Debug\DataMig.exe.config
+G:\DATA MIG\DataMig\DataMig\bin\Debug\DataMig.exe
+G:\DATA MIG\DataMig\DataMig\bin\Debug\DataMig.pdb
+G:\DATA MIG\DataMig\DataMig\bin\Debug\mscorlib.dll
+G:\DATA MIG\DataMig\DataMig\bin\Debug\normidna.nlp
+G:\DATA MIG\DataMig\DataMig\bin\Debug\normnfc.nlp
+G:\DATA MIG\DataMig\DataMig\bin\Debug\normnfd.nlp
+G:\DATA MIG\DataMig\DataMig\bin\Debug\normnfkc.nlp
+G:\DATA MIG\DataMig\DataMig\bin\Debug\normnfkd.nlp
+G:\DATA MIG\DataMig\DataMig\obj\Debug\Interop.JetES.dll
+G:\DATA MIG\DataMig\DataMig\obj\Debug\DataMig.csproj.ResolveComReference.cache
+G:\DATA MIG\DataMig\DataMig\obj\Debug\DataMig.exe
+G:\DATA MIG\DataMig\DataMig\obj\Debug\DataMig.pdb
+G:\DATA MIG\DataMig\DataMig\obj\Debug\DataMig.csprojResolveAssemblyReference.cache
+D:\DATA MIG\DataMig\DataMig\bin\Debug\DataMig.exe.config
+D:\DATA MIG\DataMig\DataMig\bin\Debug\DataMig.exe
+D:\DATA MIG\DataMig\DataMig\bin\Debug\DataMig.pdb
+D:\DATA MIG\DataMig\DataMig\obj\Debug\DataMig.csprojResolveAssemblyReference.cache
+D:\DATA MIG\DataMig\DataMig\obj\Debug\Interop.JetES.dll
+D:\DATA MIG\DataMig\DataMig\obj\Debug\DataMig.csproj.ResolveComReference.cache
+D:\DATA MIG\DataMig\DataMig\obj\Debug\DataMig.csproj.CoreCompileInputs.cache
+D:\DATA MIG\DataMig\DataMig\obj\Debug\DataMig.exe
+D:\DATA MIG\DataMig\DataMig\obj\Debug\DataMig.pdb
+D:\STAMP_Data_Migration\DataMig\DataMig\bin\Debug\DataMig.exe.config
+D:\STAMP_Data_Migration\DataMig\DataMig\bin\Debug\DataMig.exe
+D:\STAMP_Data_Migration\DataMig\DataMig\bin\Debug\DataMig.pdb
+D:\STAMP_Data_Migration\DataMig\DataMig\obj\Debug\DataMig.csprojResolveAssemblyReference.cache
+D:\STAMP_Data_Migration\DataMig\DataMig\obj\Debug\Interop.JetES.dll
+D:\STAMP_Data_Migration\DataMig\DataMig\obj\Debug\DataMig.csproj.ResolveComReference.cache
+D:\STAMP_Data_Migration\DataMig\DataMig\obj\Debug\DataMig.csproj.CoreCompileInputs.cache
+D:\STAMP_Data_Migration\DataMig\DataMig\obj\Debug\DataMig.exe
+D:\STAMP_Data_Migration\DataMig\DataMig\obj\Debug\DataMig.pdb
+C:\Users\cronin\Desktop\STAMP_Data_Migration\DataMig\DataMig\bin\Debug\DataMig.exe.config
+C:\Users\cronin\Desktop\STAMP_Data_Migration\DataMig\DataMig\bin\Debug\DataMig.exe
+C:\Users\cronin\Desktop\STAMP_Data_Migration\DataMig\DataMig\bin\Debug\DataMig.pdb
+C:\Users\cronin\Desktop\STAMP_Data_Migration\DataMig\DataMig\obj\Debug\DataMig.csprojResolveAssemblyReference.cache
+C:\Users\cronin\Desktop\STAMP_Data_Migration\DataMig\DataMig\obj\Debug\Interop.JetES.dll
+C:\Users\cronin\Desktop\STAMP_Data_Migration\DataMig\DataMig\obj\Debug\DataMig.csproj.ResolveComReference.cache
+C:\Users\cronin\Desktop\STAMP_Data_Migration\DataMig\DataMig\obj\Debug\DataMig.csproj.CoreCompileInputs.cache
+C:\Users\cronin\Desktop\STAMP_Data_Migration\DataMig\DataMig\obj\Debug\DataMig.exe
+C:\Users\cronin\Desktop\STAMP_Data_Migration\DataMig\DataMig\obj\Debug\DataMig.pdb
